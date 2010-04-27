@@ -17,3 +17,7 @@ http://rdoc.info/projects/jnunemaker/twitter
 == Copyright
 
 Copyright (c) 2009 John Nunemaker. See LICENSE for details.
+
+== My fork
+
+With this fork I intend to modify this gem in order to use it with the authlogic_oauth gem.
